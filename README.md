@@ -55,7 +55,7 @@ socks5://username:password@ip:port
 
 #### 方式一：图形界面版本
 ```bash
-python main.py
+python warden.py
 ```
 
 ### 操作流程
