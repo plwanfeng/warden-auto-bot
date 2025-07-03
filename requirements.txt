@@ -1,0 +1,4 @@
+requests>=2.25.1
+pytz>=2021.1
+eth-account>=0.8.0
+web3>=6.0.0 
